@@ -5,7 +5,7 @@ os.environ["TOKENIZERS_PARALLELISM"] = "false"
 import logging
 import time
 import json
-import gym
+# import gym
 import torch.nn as nn
 import torch
 import torch.optim as optim
